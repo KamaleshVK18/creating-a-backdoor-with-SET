@@ -78,13 +78,13 @@ sudo setoolkit
 
 ## OUTPUT:
 
-<img width="1600" height="927" alt="image" src="https://github.com/user-attachments/assets/a4aaa93d-bc52-433c-a78b-0b80c194c3dd" />
+<img width="1918" height="663" alt="Screenshot 2026-05-21 083839" src="https://github.com/user-attachments/assets/b3173cbc-6877-4dd1-924d-f41597dc1822" />
 
-<img width="1600" height="932" alt="image" src="https://github.com/user-attachments/assets/7519be37-f233-4bb4-ab75-8308209838ea" />
+<img width="1436" height="651" alt="Screenshot 2026-05-21 083849" src="https://github.com/user-attachments/assets/de49f3de-2a73-40ab-8b99-2917ba948fa4" />
 
-<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/c7915351-8d25-4022-8d60-cdabb7149521" />
+<img width="1453" height="673" alt="Screenshot 2026-05-21 083903" src="https://github.com/user-attachments/assets/37d72a30-6a12-4e1f-b38a-85aec5c8bb00" />
 
-<img width="1600" height="905" alt="image" src="https://github.com/user-attachments/assets/732babca-9e94-4ed6-a1a7-cc1510243631" />
+
 
 <img width="1844" height="1086" alt="image" src="https://github.com/user-attachments/assets/52145558-4a8c-43a8-ae49-677ff90c74b9" />
 

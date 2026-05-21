@@ -86,9 +86,8 @@ sudo setoolkit
 
 <img width="1460" height="741" alt="image" src="https://github.com/user-attachments/assets/7079820a-444f-4b13-9580-a9b3ae561c39" />
 
+<img width="1284" height="734" alt="image" src="https://github.com/user-attachments/assets/27431ddd-670f-439d-a484-bd825d8bb165" />
 
-
-<img width="1222" height="422" alt="image" src="https://github.com/user-attachments/assets/c7891861-96c3-4e11-a476-1988ff53717b" />
 
 
 
